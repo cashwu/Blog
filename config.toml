@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "zh-tw"
+title = "My Coding My Life"
+theme= "code-editor"
+
+[params]
+    author = "Cash"
+    locale = "zh-tw"
